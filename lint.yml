@@ -1,0 +1,9 @@
+name: Lint Notebooks
+on: [push]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check for notebook files
+        run: echo 'Lint placeholder'
