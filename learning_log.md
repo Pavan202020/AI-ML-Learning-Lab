@@ -9,3 +9,4 @@
 - https://docs.google.com/document/d/1FKWlhmoaDjMM_zjsRN89-11y-ez48uiP_CTgO_wX-AM/edit?tab=t.0
 -Link below for the ****Supervised Algorithms module lecture notes and colab links****
 - https://docs.google.com/document/d/13zosnQHIqXcUiYqlLrXMPYs4MIDJqnYSoctnNNOTDxU/edit?tab=t.0
+Referred the notes on K-means Clustering and learning the concepts of Clustering, Inter-Intra Cluster distances, Evaluation Metrics- Dunn Index, WCSS(Wiithin Cluster Sum of Squares) , Elbow Method, Silhouette Score, Time Complexity
