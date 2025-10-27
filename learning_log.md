@@ -10,3 +10,5 @@
 -Link below for the ****Supervised Algorithms module lecture notes and colab links****
 - https://docs.google.com/document/d/13zosnQHIqXcUiYqlLrXMPYs4MIDJqnYSoctnNNOTDxU/edit?tab=t.0
 Referred the notes on K-means Clustering and learning the concepts of Clustering, Inter-Intra Cluster distances, Evaluation Metrics- Dunn Index, WCSS(Wiithin Cluster Sum of Squares) , Elbow Method, Silhouette Score, Time Complexity
+## Week of 10-26-2025
+-Finshed reading MLOps Research Paper and understood about the MLOps tools, platforms and worlflow with industry standards
