@@ -13,3 +13,4 @@ Referred the notes on K-means Clustering and learning the concepts of Clustering
 ## Week of 10-26-2025
 -Finshed reading MLOps Research Paper and understood about the MLOps tools, platforms and worlflow with industry standards
 -Completed assignments on Kmeans module
+-Attended the module lecture live class for 2 hours on House price prediction case study
