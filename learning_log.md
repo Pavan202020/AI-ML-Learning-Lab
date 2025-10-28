@@ -14,3 +14,5 @@ Referred the notes on K-means Clustering and learning the concepts of Clustering
 -Finshed reading MLOps Research Paper and understood about the MLOps tools, platforms and worlflow with industry standards
 -Completed assignments on Kmeans module
 -Attended the module lecture live class for 2 hours on House price prediction case study
+-Finshed assigments problems 5 out of 6, referring the notes on KMeans++
+- Trying to undrstand the coding part of how to initialize the centroids and look into the vizualization to arrive at a decision
