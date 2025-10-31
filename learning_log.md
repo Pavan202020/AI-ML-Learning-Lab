@@ -16,3 +16,6 @@ Referred the notes on K-means Clustering and learning the concepts of Clustering
 -Attended the module lecture live class for 2 hours on House price prediction case study
 -Finshed assigments problems 5 out of 6, referring the notes on KMeans++
 - Trying to undrstand the coding part of how to initialize the centroids and look into the vizualization to arrive at a decision
+- Attended the module lecture on understanding and solving the business case study on House price prediction
+- Created and deployed my first stream lit app, planning to use stream lit app while developing the code the code for case study to better understand the vizualizations
+  
